@@ -50,7 +50,7 @@ public class EmailSender {
         // Detalhes do e-mail
         String recipient = "brbaricitrin@gmail.com"; // E-mail destinatário
         String subject = "Assunto do E-mail de Teste";
-        String content = "Este é o conteúdo do e-mail de teste.";
+        String content = "Ate que enfim consegui enviar um email ";
 
         // Enviando o e-mail
         sendEmail(recipient, subject, content);
